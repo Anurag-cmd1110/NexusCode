@@ -1,0 +1,11 @@
+# Node dependencies
+frontend/node_modules/
+
+# Python virtual environment
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+
+# Security & Storage
+backend/.env
+backend/chroma_storage/
